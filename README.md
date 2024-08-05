@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lily02092003/LeetCode_Solved/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/lily02092003/LeetCode_Solved/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/lily02092003/LeetCode_Solved/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/lily02092003/LeetCode_Solved/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/lily02092003/LeetCode_Solved/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Simulation
 |  |
 | ------- |
@@ -85,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/1185-find-in-mountain-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/lily02092003/LeetCode_Solved/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+## Greedy
+|  |
+| ------- |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/lily02092003/LeetCode_Solved/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/lily02092003/LeetCode_Solved/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 <!---LeetCode Topics End-->
