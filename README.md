@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lily02092003/LeetCode_Solved/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/lily02092003/LeetCode_Solved/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/lily02092003/LeetCode_Solved/tree/master/0066-plus-one) |
+| [1185-find-in-mountain-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/1185-find-in-mountain-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lily02092003/LeetCode_Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lily02092003/LeetCode_Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/lily02092003/LeetCode_Solved/tree/master/0035-search-insert-position) |
+| [1185-find-in-mountain-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/1185-find-in-mountain-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lily02092003/LeetCode_Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sorting
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/lily02092003/LeetCode_Solved/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
