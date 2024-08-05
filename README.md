@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/lily02092003/LeetCode_Solved/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lily02092003/LeetCode_Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/lily02092003/LeetCode_Solved/tree/master/0726-number-of-atoms) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/lily02092003/LeetCode_Solved/tree/master/2727-number-of-senior-citizens) |
 ## Counting
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/lily02092003/LeetCode_Solved/tree/master/0056-merge-intervals) |
+| [0726-number-of-atoms](https://github.com/lily02092003/LeetCode_Solved/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lily02092003/LeetCode_Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lily02092003/LeetCode_Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/lily02092003/LeetCode_Solved/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
 ## Simulation
 |  |
