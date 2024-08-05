@@ -63,4 +63,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/lily02092003/LeetCode_Solved/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Graph
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/lily02092003/LeetCode_Solved/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/lily02092003/LeetCode_Solved/tree/master/2171-second-minimum-time-to-reach-destination) |
 <!---LeetCode Topics End-->
