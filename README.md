@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lily02092003/LeetCode_Solved/tree/master/0005-longest-palindromic-substring) |
 | [0726-number-of-atoms](https://github.com/lily02092003/LeetCode_Solved/tree/master/0726-number-of-atoms) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lily02092003/LeetCode_Solved/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2727-number-of-senior-citizens](https://github.com/lily02092003/LeetCode_Solved/tree/master/2727-number-of-senior-citizens) |
 ## Counting
 |  |
@@ -102,4 +103,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/lily02092003/LeetCode_Solved/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
+## Tree
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lily02092003/LeetCode_Solved/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Depth-First Search
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lily02092003/LeetCode_Solved/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Binary Tree
+|  |
+| ------- |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/lily02092003/LeetCode_Solved/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
