@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lily02092003/LeetCode_Solved/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2727-number-of-senior-citizens](https://github.com/lily02092003/LeetCode_Solved/tree/master/2727-number-of-senior-citizens) |
+| [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lily02092003/LeetCode_Solved/tree/master/0056-merge-intervals) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lily02092003/LeetCode_Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lily02092003/LeetCode_Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/lily02092003/LeetCode_Solved/tree/master/0066-plus-one) |
+## Stack
+|  |
+| ------- |
+| [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
+## Simulation
+|  |
+| ------- |
+| [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
 <!---LeetCode Topics End-->
