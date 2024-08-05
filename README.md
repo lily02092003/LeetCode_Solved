@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lily02092003/LeetCode_Solved/tree/master/0005-longest-palindromic-substring) |
 | [0726-number-of-atoms](https://github.com/lily02092003/LeetCode_Solved/tree/master/0726-number-of-atoms) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/lily02092003/LeetCode_Solved/tree/master/2727-number-of-senior-citizens) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lily02092003/LeetCode_Solved/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/lily02092003/LeetCode_Solved/tree/master/0031-next-permutation) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lily02092003/LeetCode_Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/lily02092003/LeetCode_Solved/tree/master/0005-longest-palindromic-substring) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/lily02092003/LeetCode_Solved/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
 |  |
