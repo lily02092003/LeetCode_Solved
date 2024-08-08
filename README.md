@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lily02092003/LeetCode_Solved/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/lily02092003/LeetCode_Solved/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/lily02092003/LeetCode_Solved/tree/master/0066-plus-one) |
+| [0921-spiral-matrix-iii](https://github.com/lily02092003/LeetCode_Solved/tree/master/0921-spiral-matrix-iii) |
 | [1185-find-in-mountain-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/1185-find-in-mountain-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lily02092003/LeetCode_Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lily02092003/LeetCode_Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/lily02092003/LeetCode_Solved/tree/master/0921-spiral-matrix-iii) |
 | [2846-robot-collisions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2846-robot-collisions) |
 ## Breadth-First Search
 |  |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/lily02092003/LeetCode_Solved/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/lily02092003/LeetCode_Solved/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
