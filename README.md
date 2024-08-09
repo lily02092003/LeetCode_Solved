@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lily02092003/LeetCode_Solved/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/lily02092003/LeetCode_Solved/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/lily02092003/LeetCode_Solved/tree/master/0066-plus-one) |
+| [0870-magic-squares-in-grid](https://github.com/lily02092003/LeetCode_Solved/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/lily02092003/LeetCode_Solved/tree/master/0921-spiral-matrix-iii) |
 | [1185-find-in-mountain-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/1185-find-in-mountain-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lily02092003/LeetCode_Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/lily02092003/LeetCode_Solved/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/lily02092003/LeetCode_Solved/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lily02092003/LeetCode_Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/lily02092003/LeetCode_Solved/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/lily02092003/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0273-integer-to-english-words](https://github.com/lily02092003/LeetCode_Solved/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/lily02092003/LeetCode_Solved/tree/master/0870-magic-squares-in-grid) |
 ## Stack
 |  |
 | ------- |
@@ -138,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0870-magic-squares-in-grid](https://github.com/lily02092003/LeetCode_Solved/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/lily02092003/LeetCode_Solved/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
