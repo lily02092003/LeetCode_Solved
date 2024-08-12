@@ -7,7 +7,7 @@ class KthLargest {
         for(int i:nums){
             if(p.size()<k){
                 p.offer(i);
-            }else if(p.size()==k && i>p.peek()){
+            }else if(i>p.peek()){
                 p.offer(i);
             }
             if(p.size()>k){
@@ -19,7 +19,7 @@ class KthLargest {
     public int add(int val) {
         if(p.size()<m){
             p.offer(val);
-        }else if(p.size()==m && val>p.peek()){
+        }else if(val>p.peek()){
             p.offer(val);
         }
         if(p.size()>m){
