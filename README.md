@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/lily02092003/LeetCode_Solved/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/lily02092003/LeetCode_Solved/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/lily02092003/LeetCode_Solved/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/lily02092003/LeetCode_Solved/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/lily02092003/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0870-magic-squares-in-grid](https://github.com/lily02092003/LeetCode_Solved/tree/master/0870-magic-squares-in-grid) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lily02092003/LeetCode_Solved/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/lily02092003/LeetCode_Solved/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
