@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/lily02092003/LeetCode_Solved/tree/master/0066-plus-one) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lily02092003/LeetCode_Solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/lily02092003/LeetCode_Solved/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/lily02092003/LeetCode_Solved/tree/master/0890-lemonade-change) |
 | [0921-spiral-matrix-iii](https://github.com/lily02092003/LeetCode_Solved/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/lily02092003/LeetCode_Solved/tree/master/0999-regions-cut-by-slashes) |
 | [1185-find-in-mountain-array](https://github.com/lily02092003/LeetCode_Solved/tree/master/1185-find-in-mountain-array) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/lily02092003/LeetCode_Solved/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lily02092003/LeetCode_Solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3454-minimum-operations-to-make-array-equal-to-target](https://github.com/lily02092003/LeetCode_Solved/tree/master/3454-minimum-operations-to-make-array-equal-to-target) |
 ## Monotonic Stack
